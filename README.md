@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# ⛈️ Luiz Neto
 
-**`Desenvolvedora FullStack`**
+**`Graduando em Meteorologia`**
 
 🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, com domínio de ferramentas computacionais como Python, Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
 
