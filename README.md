@@ -7,8 +7,8 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/luiz-neto-116a0a356/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="linked in" 
+            title="linked in" 
             "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="100" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png?20230525070944 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/1600px-LinkedIn_logo.svg.png?20230525070944 2x" data-file-width="1024" data-file-height="267"
         />
     </a>
