@@ -9,8 +9,8 @@
         <img 
             alt="linked in" 
             title="linked in" 
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="100" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/1200px-LinkedIn_logo.svg.png?20230525070944 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/1600px-LinkedIn_logo.svg.png?20230525070944 2x" data-file-width="1024" data-file-height="267"
-        />
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="100" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/960px-LinkedIn_2021.svg.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: width: 55px;" alt="Ficheiro:LinkedIn 2021.svg – Wikipédia, a enciclopédia livre" jsname="kn3ccd"
+/>
     </a>
     <a href="https://github.com/luizz-neto?tab=repositories">
         <img 
