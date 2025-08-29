@@ -4,20 +4,32 @@
 
 🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, com domínio de ferramentas computacionais como Python, Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/luiz-neto-116a0a356/">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/luizz-neto?tab=repositories" target="_blank">
         <img 
-            alt="linked in" 
-            title="linked in" 
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="30" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: width: 55px;" alt="Ficheiro:LinkedIn 2021.svg – Wikipédia, a enciclopédia livre" jsname="kn3ccd"
-          />
-    </a>
-    <a href="https://github.com/luizz-neto?tab=repositories">
+          alt="Meu Repositório" 
+          title="Meu Repositório" 
+          src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/luiz-neto-116a0a356/" target="_blank">
         <img 
-            alt="repositorio" 
-            title="meu repositorio" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
+          alt="LinkedIn" 
+          title="LinkedIn" 
+          src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" 
+          height="28" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
     
 ---
 
