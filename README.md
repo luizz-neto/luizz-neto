@@ -11,7 +11,7 @@
         <img 
           alt="Meu Repositório" 
           title="Meu Repositório" 
-          src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
+          src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
       </a>
     </td>
     <td>
@@ -20,11 +20,21 @@
           alt="LinkedIn" 
           title="LinkedIn" 
           src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" 
-          height="28" />
+          height="28"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:luiz.neto@icat.ufal.br">
+        <img 
+          alt="E-mail" 
+          title="luiz.neto@icat.ufal.br" 
+          src="https://custom-icon-badges.demolab.com/badge/luiz.neto@icat.ufal.br-E61B23.svg?logo=mail" 
+          height="28"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
