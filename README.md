@@ -9,8 +9,8 @@
         <img 
             alt="linked in" 
             title="linked in" 
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="100" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/960px-LinkedIn_2021.svg.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: width: 55px;" alt="Ficheiro:LinkedIn 2021.svg – Wikipédia, a enciclopédia livre" jsname="kn3ccd"
-/>
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/960px-LinkedIn_logo.svg.png?20230525070944" decoding="async" width="30" height="" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: width: 55px;" alt="Ficheiro:LinkedIn 2021.svg – Wikipédia, a enciclopédia livre" jsname="kn3ccd"
+          />
     </a>
     <a href="https://github.com/luizz-neto?tab=repositories">
         <img 
@@ -19,8 +19,6 @@
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     
-    
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
