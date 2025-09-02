@@ -2,7 +2,7 @@
 
 **`Graduando em Meteorologia`**
 
-🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, obtendo experiência em ferramentas computacionais como Python, Grid Analysis and Display System (GrADS), Climate Predictability Tool (CPT), Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
+🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, obtendo experiência em ferramentas computacionais como Python, Excel, Grid Analysis and Display System (GrADS), Climate Predictability Tool (CPT), Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
 
 <table>
   <tr>
