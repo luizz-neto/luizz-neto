@@ -114,7 +114,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luizz-neto&show_icons=true&theme=github_dark&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=luizz-neto&show_icons=true&theme=github_dark&include_all_commites=true&locale=pt-br"
 />
 
 <img 
