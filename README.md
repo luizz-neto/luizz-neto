@@ -2,7 +2,7 @@
 
 **`Graduando em Meteorologia`**
 
-🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, obtendo experiência em ferramentas computacionais como Python, Excel, Grid Analysis and Display System (GrADS), Climate Predictability Tool (CPT), Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
+🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, com domínio de ferramentas computacionais como Python, Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
 
 <table>
   <tr>
@@ -79,6 +79,28 @@
     width="30px" 
     style="padding-right: 10px;" 
    src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png">
+   
+   <img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-1.webcatalog.io/catalog/canva-cn/canva-cn-icon-filled-256.png?v=1754269934555">
+    <img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1756687729671">
+    <img 
+    align="left" 
+    alt="Tux" 
+    title="Tux"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png">
 
 <br/>
 <br/>
