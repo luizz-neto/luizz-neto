@@ -2,7 +2,7 @@
 
 **`Graduando em Meteorologia`**
 
-🎓 Graduando em Meteorologia com experiência em estatística aplicada, meteorologia sinótica, sensoriamento remoto e análise de dados de radar. Desenvolvi atividades voltadas à hidrologia, precipitação e geoprocessamento, com domínio de ferramentas computacionais como Python, Google Earth Engine e bibliotecas científicas (pandas, geopandas, matplotlib) para processamento e análise de dados ambientais.
+🎓 🎓 Graduando em Meteorologia, com conhecimentos em Python, JavaScript (Google Earth Engine), GrADS, QGIS, CPT, Linux, Git e GitHub. Habilidade em interpretação de mapas sinóticos, imagens de satélite, dados de radar e diagramas Skew-T, além de processamento e visualização de dados climáticos e geoespaciais. Domínio em geoprocessamento e sensoriamento remoto, incluindo criação de mapas temáticos e análises espaciais
 
 <table>
   <tr>
