@@ -75,7 +75,7 @@
  <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="GEE"
     width="30px" 
     style="padding-right: 10px;" 
    src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png">
@@ -97,7 +97,7 @@
     <img 
     align="left" 
     alt="Tux" 
-    title="Tux"
+    title="Linux"
     width="25px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png">
