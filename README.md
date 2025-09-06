@@ -58,7 +58,7 @@
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="QGIS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?20180304175057" decoding="async" width="30">
@@ -67,7 +67,7 @@
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png?20221202081052">
